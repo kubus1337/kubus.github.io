@@ -1,2 +1,2 @@
-# XYZ-RGB.github.io
-## https://xyz-rgb.github.io/
+# kubus.github.io
+## https://kubus.github.io/
